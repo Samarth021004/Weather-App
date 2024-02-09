@@ -1,3 +1,9 @@
+https://samarth021004.github.io/Weather-App/ 
+
+Above is the link to the weather application
+Enter the name of the city . Current temperature and weather info will be displayed .
+Temperature and weather of next 24 hours will also be displayed.
+You can check the data for any city on Earth.
 
 Steps to run the code 
 
